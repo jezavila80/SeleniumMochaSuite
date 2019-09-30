@@ -1,0 +1,18 @@
+{
+  "name": "SeleniumIDERecording3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "keywords": [],
+  "author": "jezreel_avila <jezavila80@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chromedriver": "^77.0.0",
+    "mocha": "^6.2.0",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
